@@ -37,8 +37,7 @@ The dataset includes order dates, sales, profit, discounts, quantities, customer
 These figures provide an overview of the company's performance across the four-year period.
 
 ## Dashboard 1: Superstore Sales Performance
-
-![Superstore Sales Performance](Sales_Dashboard.png)
+Superstore Sales Performance
 
 The first dashboard focuses on understanding how sales are distributed across different products, customer segments, and regions.
 
@@ -57,7 +56,7 @@ The regional comparison and map help explore where sales are coming from, while 
 
 ## Dashboard 2: Superstore Profitability Insights
 
-![Superstore Profitability Insights](Profitability_Dashboard.png)
+Superstore Profitability Insights
 
 For the second dashboard, I focused on profitability rather than just sales.
 
